@@ -1,4 +1,4 @@
-# 💸 Expense Tracker (Streamlit)
+# 💸 Expense Tracker (Python + Streamlit)
 
 Structure
 - `backend.py` – Budget / User classes + JSON storage (your original logic)
